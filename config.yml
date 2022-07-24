@@ -22,6 +22,8 @@ info:
     email: gm@beb.xyz
     url: https://docs.beb.xyz
   x-introItems:
+    - title: Initialization
+      file: ./init.md
     - title: Authentication
       file: ./auth.md
 
