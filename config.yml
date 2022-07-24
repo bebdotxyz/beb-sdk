@@ -1,0 +1,31 @@
+spectaql:
+  displayAllServers: true
+  faviconFile: favicon.ico
+  logoFile: logo.png
+
+introspection:
+  url: http://localhost:8080/graphql
+  metadataFile: ./metadata.json
+  removeTrailingPeriodFromDescriptions: false
+  queryNameStrategy: capitalizeFirst
+  fieldExpansionDepth: 1
+  hideQueriesWithUndocumentedReturnType: true
+
+extensions:
+  graphqlScalarExamples: true
+
+info:
+  title: BEB Social SDK
+  description: Use our GraphQL endpoints with your language of choice 😎 Also see our protocol docs at [docs.beb.xyz](https://docs.beb.xyz)!
+  x-hidePoweredBy: true
+  contact:
+    email: gm@beb.xyz
+    url: https://docs.beb.xyz
+  x-introItems:
+    - title: Authentication
+      file: ./auth.md
+
+servers:
+  - url: https://protocol.beb.xyz/graphql
+    description: Production
+    production: true

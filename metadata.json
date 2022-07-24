@@ -1,0 +1,17 @@
+{
+  "OBJECT": {
+    "IndexerRule": {
+      "documentation": { "undocumented": true }
+    },
+    "Query": {
+      "fields": {
+        "Users": {
+          "documentation": { "undocumented": true }
+        }
+      }
+    },
+    "AccountAddressMutationResponse": {
+      "documentation": { "undocumented": true }
+    }
+  }
+}

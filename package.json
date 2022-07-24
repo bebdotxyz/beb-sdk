@@ -1,12 +1,15 @@
 {
   "name": "beb-sdk",
-  "version": "0.0.1",
-  "description": "More information coming...",
+  "version": "0.0.2",
+  "description": "The BEB Social SDK docs hosted at sdk.beb.xyz",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["NFT", "web3", "protocol"],
-  "author": "jcdenton.eth <jc@beb.xyz>",
-  "license": "ISC"
+  "keywords": [
+    "NFT",
+    "web3",
+    "protocol"
+  ],
+  "author": "jcdenton.eth <jc@beb.xyz>"
 }
