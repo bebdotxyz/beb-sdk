@@ -12,6 +12,33 @@
     },
     "AccountAddressMutationResponse": {
       "documentation": { "undocumented": true }
+    },
+    "Portfolio": {
+      "documentation": { "undocumented": true }
+    },
+    "Notification": {
+      "documentation": { "undocumented": true }
+    },
+    "AccountSection": {
+      "documentation": { "undocumented": true }
+    },
+    "AccountSoulbound": {
+      "documentation": { "undocumented": true }
+    },
+    "AccountExp": {
+      "documentation": { "undocumented": true }
+    },
+    "SoulboundToken": {
+      "documentation": { "undocumented": true }
+    },
+    "SectionEntry": {
+      "documentation": { "undocumented": true }
+    },
+    "SoulboundTokenQuery": {
+      "documentation": { "undocumented": true }
+    },
+    "AccountSectionMutationResponse": {
+      "documentation": { "undocumented": true }
     }
   }
 }
