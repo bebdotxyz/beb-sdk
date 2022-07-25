@@ -16,7 +16,7 @@ extensions:
 
 info:
   title: BEB Social SDK
-  description: Use our GraphQL endpoints with your language of choice 😎 Also see our protocol docs at [docs.beb.xyz](https://docs.beb.xyz). <br/>Want to contribute to our SDK? Find the code at [github.com/bebdotxyz/beb-sdk](https://github.com/bebdotxyz/beb-sdk)
+  description: Use our GraphQL endpoints with your language of choice to build on [beb.xyz](https://beb.xyz) 😎 <br/> Also see our protocol docs at [docs.beb.xyz](https://docs.beb.xyz). <br/>Want to contribute to our SDK? Find the code at [github.com/bebdotxyz/beb-sdk](https://github.com/bebdotxyz/beb-sdk)
   x-hidePoweredBy: true
   contact:
     email: gm@beb.xyz
